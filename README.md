@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (DeckGL MAP and Layers)
+
+OUR MAP WITH VIEWPORT FEATURES
+![final](https://user-images.githubusercontent.com/57535574/159156779-c155a1ff-4066-48b6-8496-38c8d9a49dd7.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+Our OpenStreetMap(DECKGL) with bitmap layer on it which is visualising our data on to our map.
+![eins](https://user-images.githubusercontent.com/57535574/159156601-12e0a595-9913-4350-a1b9-36fcbbdf7f85.PNG)
+
+Our ArcLayer is showing data onto our map.
+
+![zwei](https://user-images.githubusercontent.com/57535574/159156631-a5e23f6a-92ef-49ac-ab67-eb2dda6687d4.PNG)
+
+
+ColumnLayer is displaying data onto our map.
+![Drei](https://user-images.githubusercontent.com/57535574/159156659-12fb1336-20b6-4ad3-8563-12eab771c30c.PNG)
+
+CpuGridLayer
+![Vier](https://user-images.githubusercontent.com/57535574/159156673-8c6b8758-e62f-471d-92fa-2f50f05c2f7d.PNG)
+
+GeoJsonLayer
+![funf](https://user-images.githubusercontent.com/57535574/159156682-6b58791d-02a0-40c6-937b-67aa6b91e82b.PNG)
+
+PointCloudLayer
+![sechs](https://user-images.githubusercontent.com/57535574/159156691-ba1e552b-2003-4091-93b4-b4571e82c2ff.PNG)
+
+
+PolygonLayer
+![sieben](https://user-images.githubusercontent.com/57535574/159156704-1958b3e2-9aed-41cd-98c3-bd58e420fe74.PNG)
+
+
+IconLayer
+![Acht](https://user-images.githubusercontent.com/57535574/159156720-07af8665-44f7-481c-bec1-decdbf905653.PNG)
+
+
+s2Layer
+![zehn](https://user-images.githubusercontent.com/57535574/159156740-59a93257-6f2e-48c3-b70c-be09db74a83a.PNG)
+
 
 ## Available Scripts
 
